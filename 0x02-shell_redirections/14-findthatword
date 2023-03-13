@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "rooe" /etc/passwd
+grep "rooe"/etc/passwd
